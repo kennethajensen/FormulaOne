@@ -1,6 +1,6 @@
 # Analyzing Formula 1 Data
 
-This notebook retrieves and processes Formula 1 qualifying session data from [OpenF1](https://openf1.org/)'s open-source API.
+This repository retrieves and processes Formula 1 qualifying session data from [OpenF1](https://openf1.org/)'s open-source API.
 
 The goal is to use this data to create a profile of how each track is driven and to then analyze the results to find groups of tracks that are similar and identify any anomalies or changes over time.
 
